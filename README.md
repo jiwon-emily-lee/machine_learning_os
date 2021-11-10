@@ -1,6 +1,6 @@
 # machine_learning_os
 ---
-This repository is for machine learning study 
+This repository is for studying machine learning.
 
 
 ### contains such machine learning algorithms
